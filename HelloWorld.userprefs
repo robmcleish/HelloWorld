@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{356AADEB-762A-4057-82AA-2ECC11CF7503}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.Droid PreferredExecutionTarget="Android.Nexus 7 (Marshmallow)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld Status">
+    <Files>
+      <File FileName="HelloWorld/GridPage.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/App.xaml.cs" Line="11" Column="19" />
+      <File FileName="HelloWorld/GridExercise2Page.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/GridExercise2Page.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/StackExerciseTwoPage.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/StackLayoutExercise2.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/StackLayoutExercise1.xaml" Line="1" Column="1" />
+      <File FileName="../../Downloads/Grid Exercise - Solutions/Exercise2/GridExercise2.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/AbsoluteLayoutExercise1Page.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/AbsoluteLayoutExercise1Page.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/AbsoluteLayout Exercise - Solutions/Exercise1/AbsoluteLayoutExercise1.xaml" Line="18" Column="14" />
+      <File FileName="Log" />
+      <File FileName="HelloWorld Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.63CAC4F4-C4BC-4BD9-8576-E29BBF8EE97A" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
